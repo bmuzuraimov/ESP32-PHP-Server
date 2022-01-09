@@ -1,0 +1,1 @@
+<p>This is customer page</p>
